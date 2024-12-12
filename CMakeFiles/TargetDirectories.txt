@@ -1,0 +1,5 @@
+/home/mirzo/Рабочий стол/repos/Sign/CMakeFiles/module_name.dir
+/home/mirzo/Рабочий стол/repos/Sign/CMakeFiles/edit_cache.dir
+/home/mirzo/Рабочий стол/repos/Sign/CMakeFiles/rebuild_cache.dir
+/home/mirzo/Рабочий стол/repos/Sign/pybind11/CMakeFiles/edit_cache.dir
+/home/mirzo/Рабочий стол/repos/Sign/pybind11/CMakeFiles/rebuild_cache.dir
